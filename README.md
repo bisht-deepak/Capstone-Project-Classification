@@ -24,8 +24,8 @@ The success of the project will be measured by the model's accuracy in predictin
 - Required libraries: pandas, scikit-learn, matplotlib
 
 ### Installation
-1. Clone the repository: `git clone https://github.com/yourusername/Credit-Card-Default-Prediction.git`
-2. Navigate to the project directory: `cd Credit-Card-Default-Prediction`
+1. Clone the repository: `git clone https://github.com/bisht-deepak/Capstone-Project-Classification.git`
+2. Navigate to the project directory: `cd Capstone-Project-Classification`
 
 ## Visualizations
 The project includes visualizations such as:
